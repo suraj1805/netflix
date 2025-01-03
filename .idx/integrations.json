@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://netflix-83141.web.app"
+  },
+  "cloud_run_deploy": {}
+}
